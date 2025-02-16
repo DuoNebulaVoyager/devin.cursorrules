@@ -1,4 +1,4 @@
-# Transform your $20 Cursor into a Devin-like AI Assistant
+.# Transform your $20 Cursor into a Devin-like AI Assistant
 
 repository gives you everything needed to supercharge your Cursor or Windsurf IDE with **advanced** agentic AI capabilities—similar to the $500/month Devin—but at a fraction of the cost. In under a minute, you’ll gain:
 
