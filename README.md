@@ -2,7 +2,7 @@ repository gives you everything needed to supercharge your Cursor or Windsurf ID
 
 * Automated planning and self-evolution, so your AI “thinks before it acts” and learns from mistakes
 * Extended tool usage, including web browsing, search engine queries, and LLM-driven text/image analysis
-* [Experimental] Multi-agent collaboration, with o1 doing the planning, and regular Claude/GPT-4o doing the execution.
+* [Experimental] Multi-agent collaboration, with o1 doing the planning, and regular Claude/GPT-4o doing the execution
 
 ## Why This Matters
 
