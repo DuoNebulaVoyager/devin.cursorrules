@@ -6,7 +6,7 @@ repository gives you everything needed to supercharge your Cursor or Windsurf ID
 
 ## Why This Matters
 
-Devin impressed many by acting like an intern who writes its own plan, updates that plan as it progresses, and even evolves based on your feedback. But you don’t need Devin’s $500/month subscription to get most of that functionality. By customizing the .cursorrules file, plus a few Python scripts, you’ll unlock the same advanced features inside Cursor.
+Devin impressed many by acting like an intern who writes its own pladn, updates that plan as it progresses, and even evolves based on your feedback. But you don’t need Devin’s $500/month subscription to get most of that functionality. By customizing the .cursorrules file, plus a few Python scripts, you’ll unlock the same advanced features inside Cursor.
 
 ## Key Highlights
 
