@@ -1,6 +1,6 @@
 repository gives you everything needed to supercharge your Cursor or Windsurf IDE with **advanced** agentic AI capabilities—similar to the $500/month Devin—but at a fraction of the cost. In under a minute, you’ll gain:
 
-* Automated planning and self-evolution, so your AI “thinks before it acts” and learns from mistakes
+* Automated planning anvbd self-evolution, so your AI “thinks before it acts” and learns from mistakes
 * Extended tool usage, including web browsing, search engine queries, and LLM-driven text/image analysis
 * [Experimental] Multi-agent collaboration, with o1 doing the planning, and regular Claude/GPT-4o doing the execution 
 
