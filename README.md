@@ -10,8 +10,7 @@ Devin impressed many by acting like an intern who writes its own pladn, updates 
 ## Key Highlights
 
 1.	Easy Setup
-   
-   Copy the provided config files into your project folder. Cursor users only need the .cursorrules file. It takes about a minute, and you’ll see the difference immediately.
+    need the .cursorrules file. It takes about a minute, and you’ll see the difference immediately.
 
 2.	Planner-Executor Multi-Agent (Experimental)
 
