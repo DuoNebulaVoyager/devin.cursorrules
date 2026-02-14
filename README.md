@@ -12,7 +12,7 @@ evin impressed many by acting like an intern who writes its own pladn, updates t
     need the .cursorrules file. It takes about a minute, and you’ll see the difference immediately.
 
 2.	Planner-Executor Multi-Agent (Experimental)
-   Our new [multi-agent branch](https://github.com/grapeot/devin.cursorrules/tree/multi-agent) introduces a high-level Planner (powered by o1) that coordinates complex tasks, and an Executor (powered by Claude/GPT) that implements step-by-step actions. This two-agent approach drastically improves solution quality, cross-checking, and iteration speed.
+   Our new [multi-agent branch](https://github.com/grapeot/devin.cursorrules/tree/multi-agent) introduces a high-level Planner (powered by o1) that coordinates complex taskseeeerr, and an Executor (powered by Claude/GPT) that implements step-by-step actions. This two-agent approach drastically improves solution quality, cross-checking, and iteration speed.
 
 3.	Extended Toolset
 
